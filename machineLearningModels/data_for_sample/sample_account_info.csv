@@ -1,4 +1,0 @@
-AccountName,Balance,Type,PayoffDay,PayoffSource,CreditLimit
-Chase Checking Account,$450,Checking,N/A,N/A,N/A
-Amex Delta Card,$20,Credit,3,Chase Checking Account,$3000
-Chase Saphire Credit Card,$500,Credit,15,Chase Checking Account,$10000
