@@ -1,5 +1,16 @@
-# bias-finder-flask
-flask app to find bias in a headline/sentence/paragraph
+# Web API for Obsidion
+Hackathon Project For TOHacks 2020
+[View Video Demonstration](https://www.youtube.com/watch?v=ki2QPCBCLu0)
 
-Citations: 
-Hutto, C.J. (2015). Computationally Detecting and Quantifying the Degree of Bias in Sentence-Level Text of News Stories. Second International Conference on Human and Social Analytics (HUSO-15). Barcelona, Spain 2015.
+## Getting started
+- Clone the project and install dependencies
+- Activate virtual environment
+- run pip install -r requirements.txt
+- run python app.py
+- run testLocal.ipynb (to test local api) or run testGlobal.ipynb (to test global api)
+
+## Built With
+
+* [Python](https://ionicframework.com/docs/react) 
+* [socket.io](https://socket.io/)
+* [Express](https://expressjs.com/)
